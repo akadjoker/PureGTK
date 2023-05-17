@@ -9,11 +9,9 @@ The goal of this library is to provide a simple and easy-to-use API, similar to 
 creation and handling of widgets, as well as processing events more efficiently.
 
 ## Using Builder
+
 #include <stdio.h>
 #include "PureGTK.h"
-
-
-
 int main()
 {
  
@@ -63,13 +61,11 @@ int main()
 	return (0);
 }
 
-##
-Buttons
+##Buttons
+
+
 #include <stdio.h>
 #include "PureGTK.h"
-
-
-
 int main()
 {
  
