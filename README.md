@@ -65,8 +65,7 @@ int main()
 ```
 ##Buttons
 
-<pre>
-
+```c
 #include <stdio.h>
 #include "PureGTK.h"
 int main()
@@ -188,5 +187,4 @@ int main()
 	FreeLibrary();
 	return (0);
 }
-
-</pre>
+```
